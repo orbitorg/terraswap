@@ -14,5 +14,8 @@ export TOKEN_CODE_ID=1252
 
 
 ## deployed contrat 
-export TOKEN_CONTRACT_ADDRESS="terra127y5sa8nahk4tu90ah64evlgu0aa32crkxgcuyymweyzkdaevwlq3kj8e6"
 export FACTORY_CONTRACT_ADDRESS="terra1hg2crfjs46afrsp77gywqc0zku5u67wyrvqrltlwr4s8rddklnmq5fqt6z"
+export ROUTER_CONTRACT_ADDRESS="terra1ejpgrwrxxgynu4squ3gepqj2t5rv7xwdqhxg2te88988nem4uplqch0frz"
+
+export TOKEN_CONTRACT_ADDRESS="terra127y5sa8nahk4tu90ah64evlgu0aa32crkxgcuyymweyzkdaevwlq3kj8e6"
+
